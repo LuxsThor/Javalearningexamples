@@ -55,12 +55,12 @@ public class EncryptinglikeaBousse {
         String secretsauce = encryptedfile.next();
         File outputfile = new File(secretsauce);
         PrintWriter output = new PrintWriter(outputfile);
-
+        //direct encryption from msg variable
         if (!outputfile.exists()) {
             System.out.println("sorry file does not exist");
             System.exit(0);                                     // When to use System.exit()?
         }
-
+        //direct encryption from msg variable
         output.println(encrypt(msg, secret));
         input.close();
         output.close();
