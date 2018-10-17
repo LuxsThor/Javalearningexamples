@@ -24,6 +24,12 @@ public class ChoHanGame {
             System.out.println("yay you won");
             return bet;
         }
+
+        if (!(roll % 2 == 0) && guess.equals("Cho")) {
+            System.out.println("yay you won!");
+            return bet;
+        }
+
         else {
             System.out.println("whoopsi you lost");
             return -bet;
