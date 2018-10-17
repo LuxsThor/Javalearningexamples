@@ -24,7 +24,7 @@ public class DiceClass {
         }
         return sum;
     }
-
+    //getters and setter for the private variables
     public void setDice(int setnumberofdice){
         this.numDice = setnumberofdice;
     }
