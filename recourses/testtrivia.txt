@@ -1,0 +1,5 @@
+ 3
+ T F T
+ Tinman wanted a heart.
+ Lion wanted a mane.
+ Scarecrow wanted a brain.
