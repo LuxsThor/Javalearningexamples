@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b86a681-d5c2-4ee1-ad8a-62648cccc38c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Themexamples/ChoHanGameStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Themexamples/ChoHanMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Themexamples/runChoHanMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Themexamples/ChoHanGameStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Themexamples/ChoHanGameStatic.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,8 +104,8 @@
       <file leaf-file-name="ChoHanGameStatic.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Themexamples/ChoHanGameStatic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="381">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -326,12 +323,12 @@
       <workItem from="1539782795401" duration="11923000" />
       <workItem from="1540193628092" duration="4046000" />
       <workItem from="1540370328642" duration="1149000" />
-      <workItem from="1540383727681" duration="5181000" />
+      <workItem from="1540383727681" duration="5785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47104000" />
+    <option name="totallyTimeSpent" value="47708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -347,11 +344,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23024055" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23024055" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20765027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20765027" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -723,8 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Themexamples/ChoHanGameStatic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="381">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -38,26 +38,5 @@ public class ChoHanGameStatic {
         }
 
     }
-
-
-    public static void main(String[] args) {
-        String answer = "Yes";
-        int winnings = 0;
-        int numberoggamesplayed = 0;
-        while (answer.equals("Yes")) {
-            ChoHanGame newgame = new ChoHanGame();
-            Scanner askplayer = new Scanner(System.in);
-            System.out.println("How much do you want to bet?");
-            int bet = askplayer.nextInt();
-            System.out.println("what do you bet on? Cho or Han?");
-            String playerguess = askplayer.next();
-            winnings += newgame.playGame(bet, playerguess);
-            System.out.println("Your current winnings: " + winnings);
-            System.out.println("would you like to continue? Yes or No?");
-            answer = askplayer.next();
-            numberoggamesplayed++;
-        }
-        System.out.println("your total result while playing " + numberoggamesplayed + " games is " + winnings);
-    }
 }
 
